@@ -1,0 +1,53 @@
+commit 2ba4eaf6802a0c7e2483cad9b3d5615246810d30
+Author: Connor Brown <connorjbrown@mines.edu>
+Date:   Thu Feb 18 15:58:59 2021 -0700
+
+    Changed Cat Color
+
+commit afa842db6668dae01ba246124c95b84ae73a0b39
+Author: Ben Ferrick <benferrick@gmail.com>
+Date:   Thu Feb 18 15:48:17 2021 -0700
+
+    Changed mouth height. Ben Ferrick
+
+commit 0fae010c2ab46ad12500dd713b05bf1e9250aee3
+Author: Connor Brown <connorjbrown@mines.edu>
+Date:   Thu Feb 18 15:45:13 2021 -0700
+
+    Changed Head Size
+
+commit b116f84b49740295c25ee07f7c45715d1df84829
+Author: Ben Ferrick <benferrick@gmail.com>
+Date:   Thu Feb 18 15:39:27 2021 -0700
+
+    Changed mouth width multiplication constant. Ben Ferrick.
+
+commit eee52a760545f8ea19e42cffa592b3d225192da0
+Author: Connor Brown <connorjbrown@mines.edu>
+Date:   Thu Feb 18 15:34:20 2021 -0700
+
+    Changed Eye Size and Color
+
+commit f84be9f60a6570b1c2cb760cbeae93567771e7da
+Author: Ben Ferrick <benferrick@gmail.com>
+Date:   Thu Feb 18 15:25:47 2021 -0700
+
+    Made some changes to GUI constants. Ben Ferrick
+
+commit c3b8bd47ab7410682e23914a3da457e3d3360d4d
+Author: bmferrick <bferrick@mymail.mines.edu>
+Date:   Thu Feb 18 13:51:34 2021 -0700
+
+    Some changes to facial feature constants. Ben Ferrick
+
+commit 75e9c54a1259be5f5d5a5af53ad72905a92ceada
+Author: bmferrick <78043715+bmferrick@users.noreply.github.com>
+Date:   Thu Feb 18 13:28:58 2021 -0700
+
+    Create README.md
+
+commit 4736961f9d223397b12c85d1c9337587c9ff3bc4
+Author: Connor Brown <connorjbrown@mines.edu>
+Date:   Thu Feb 18 13:27:27 2021 -0700
+
+    Intial loading
